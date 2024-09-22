@@ -9,7 +9,7 @@
 - [Contributions](#contributions)
 - [Testing](#testing)
 - [GitHub](#GitHub)
-- [Email] (#Email)
+- [Email Address](#Email)
 
 ## License
 ![Boost License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)
