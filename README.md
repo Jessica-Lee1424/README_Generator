@@ -1,36 +1,25 @@
-
 # README_Generator
 
-## Table of Contents
-- [License](#license)
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributions](#contributions)
-- [Testing](#testing)
-- [GitHub](#GitHub)
-- [Email] (#Email)
-
 ## License
-![Boost License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-Create a README using node
+To auto-create a README.md using the command line.
 
 ## Installation
 Inquirer
 
 ## Usage
-For class
+For class assignments.
 
 ## Contributions
-No one
+No one.
 
 ## Testing
-None needed
+None are needed.
 
 ## GitHub Username
-https://github.com/Jessica-Lee1424
+https://github.com/Jessica-Lee1424/README_Generator
 
 ## Email Address
 jgonnella_example@gmail.com
