@@ -1,25 +1,25 @@
-# README_Generator
+# Readme
 
 ## License
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-To auto-create a README.md using the command line.
+Project
 
 ## Installation
-Inquirer
+node
 
 ## Usage
-For class assignments.
+For fun
 
 ## Contributions
-No one.
+No one
 
 ## Testing
-None are needed.
+None needed
 
 ## GitHub Username
 https://github.com/Jessica-Lee1424/README_Generator
 
 ## Email Address
-jgonnella_example@gmail.com
+jgonnella@test.mail
