@@ -13,7 +13,7 @@ In this process, I learned how to select a license and link it so that the badge
 - [Contributions](#contributions)
 - [Testing](#testing)
 - [GitHub](#GitHub)
-- [Email Address](#Email)
+- [Email](#Email)
 
 ## License
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
