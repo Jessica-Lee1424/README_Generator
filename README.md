@@ -34,7 +34,7 @@ No one
 None needed
 
 ## GitHub Username
-https://github.com/Jessica-Lee1424/README_Generator
+https://github.com/Jessica-Lee1424
 
 ## Email Address
 jgonnella@test.mail
