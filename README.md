@@ -14,6 +14,7 @@ In this process, I learned how to select a license and link it so that the badge
 - [Testing](#testing)
 - [GitHub](#GitHub)
 - [Email](#Email)
+- [VideWalkthrough](#VideoWalkthrough)
 
 ## License
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -38,3 +39,6 @@ https://github.com/Jessica-Lee1424
 
 ## Email Address
 jgonnella@test.mail
+
+## Video Walkthrough
+https://drive.google.com/file/d/1kMlS04N8DC6eNcd6wwfeIbymCsLTpHQa/view
